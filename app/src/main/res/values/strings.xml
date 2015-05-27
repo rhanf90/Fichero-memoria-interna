@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Leonelmemoriainterna</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mensaje1">Escribe un Mensaje</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="Abrir">ABRIR</string>
+</resources>
